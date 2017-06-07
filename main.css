@@ -12,11 +12,13 @@ header {
 
 #logo{
   float: left;
+  width: 300px;
 
 }
 
 nav ul{
   margin-top: 0;
+  color: blue;
 }
 header ul{
   text-decoration: none;
